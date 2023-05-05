@@ -1,0 +1,43 @@
+header{
+    background: linear-gradient(#00eaff, #00ff6e);
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 30px;
+}
+
+a{
+    font-size: 30px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover{
+    color: hsl(4, 89%, 49%);
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+}
+
+.parallax{
+    background-image: url("https://vsegda-pomnim.com/uploads/posts/2022-04/1649112673_52-vsegda-pomnim-com-p-chudesnii-mir-prirodi-foto-55.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background: linear-gradient(#00eaff, #00ff6e);
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
